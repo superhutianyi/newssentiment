@@ -48,9 +48,11 @@ Naive Bayes/ Random Forest/ SVM
 
 ### Results:
 ![image](http://github.com/superhutianyi/newssentiment/raw/master/Figure/WordCloud.png)
+
 To have a general idea of the headlines we collected, we used word clouds and word counts to construct the frequency analysis, where the size of a word is determined by how many times it appears in the headlines. 
 
 ![image](http://github.com/superhutianyi/newssentiment/raw/master/Figure/Comparison.png)
+
 We could see from the above figure that the accuracy of prediction in 90%/10% train test split shows the best accuracy among those three split methods. The color change of black and white shows most difference. The difference between three machine learning models in 90%/10% split is not significant for us to see from the picture. 
 
 ### Limitation:
