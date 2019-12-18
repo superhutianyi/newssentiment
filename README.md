@@ -57,6 +57,8 @@ We could see from the above figure that the accuracy of prediction in 90%/10% tr
 
 ### Limitation:
 High fluctuations in prices
+
 Limitation in time series algorithms
+
 Limitation in stock selection
 
