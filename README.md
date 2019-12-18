@@ -1,5 +1,6 @@
 # News Sentiment on Stock Market Prediction
 Created and completed by Tianyi Hu
+
 This is about news sentiment on stock market prediction.
 
 ### Research Question: 
