@@ -47,3 +47,4 @@ Using TF-IDF analysis allows us to figure out which word is characteristic for o
 Naive Bayes/ Random Forest/ SVM
 
 ### Results:
+![image](http://github.com/superhutianyi/newssentiment/raw/master/Figure/WordCloud.png)
